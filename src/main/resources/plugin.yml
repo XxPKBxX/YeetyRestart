@@ -1,0 +1,4 @@
+name: YeetyRestart
+version: ${project.version}
+main: com.yeetynetwork.yeetyrestart.YeetyRestart
+authors: [ yeetyboi56 ]
