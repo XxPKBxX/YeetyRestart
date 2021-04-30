@@ -51,3 +51,5 @@ public final class YeetyRestart extends JavaPlugin {
     @Override
     public void onDisable() {}
 }
+
+/* B */
